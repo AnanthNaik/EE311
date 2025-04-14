@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Start Division: 625 / 5
+Expected: Quotient = 125, Remainder = 0
+Received: Quotient = 125, Remainder = 0
+✅ RESULT OK
+✅ Test completed.
+$stop called at time : 115 ns : File "C:/Users/ANANTH NAIK/NonRestoringDivider/NonRestoringDivider.srcs/sim_1/new/tb.v" Line 85
